@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Users\\davyl\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.testing.pyTestArgs": [
+        "django-react"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": true,
+    "python.testing.pyTestEnabled": false,
+    "python.testing.nosetestArgs": [
+        "VenvDjango"
+    ]
+}
